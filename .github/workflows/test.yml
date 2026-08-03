@@ -1,0 +1,21 @@
+name: Swift Test
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Swift build
+      run: swift build
+
+    - name: Swift test
+      run: swift test --strict
+
+    - name: Exit successfully
+      run: exit 0
