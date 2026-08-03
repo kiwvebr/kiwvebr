@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ruth Considine - kiwvebr
 
-<!--
-**kiwvebr/kiwvebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Moonlit Codex**
 
-Here are some ideas to get you started:
+I'm a nocturnal virtuoso, weaver of circuits and commander of code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus:** Hacking circuits, where the digital realm meets the mechanical.
+
+**Motto:** 'Digitized exuding system engine' - a symphony of innovation.
+
+**Tech Stack:** Swift, the conductor of our digital orchestra, with PostgreSQL, Tailwind, and Node.js as trusted accomplices.
+
+**Code is my canvas, and innovation is my art.
+
+Let's build the future, under the cover of night.
